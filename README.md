@@ -12,4 +12,4 @@
 >
 > 要继续深入学习可以看看这本书，完整的介绍了C++各方面语法，非常细致，对编程很有帮助。这本书上面有不到十处错误，买来需要先查阅勘误（我在19年买的，可能后续的修正了，不太清楚）
 >
-> ![C++_Primer_Plus](assets\picture\C++_Primer_Plus.jpg)
+> ![C++_Primer_Plus](assets/picture/C++_Primer_Plus.jpg)
